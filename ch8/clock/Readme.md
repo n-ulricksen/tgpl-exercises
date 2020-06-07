@@ -4,7 +4,7 @@ port on your local machine.
 
 **Note** you do not need to install Go to run this application!
 
-This program uses environment variables to specify the timezone.
+This program uses the TZ environment variable to specify the timezone.
 
 A list of allowed timezones can be found [here](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
 
