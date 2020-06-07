@@ -13,7 +13,7 @@ A list of allowed timezones can be found [here](https://en.wikipedia.org/wiki/Li
 TZ=<TIMEZONE> ./clock --port=<PORT>
 ```
 
-## Example
+## Examples
 - Run the following command to start a US/Eastern clock on localhost:8010
     ```
     TZ=US/Eastern go run clock.go --port=8010
