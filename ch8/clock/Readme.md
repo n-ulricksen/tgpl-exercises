@@ -16,7 +16,7 @@ TZ=<TIMEZONE> ./clock --port=<PORT>
 ## Examples
 - Run the following command to start a US/Eastern clock on localhost:8010
     ```
-    TZ=US/Eastern go run clock.go --port=8010
+    TZ=US/Eastern ./clock --port=8010
     ```
 
 - To run multiple clocks, be sure to set a different port number for each 
