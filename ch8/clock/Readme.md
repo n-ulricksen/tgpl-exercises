@@ -29,6 +29,6 @@ clock, and run each instance of the application in the background.
     ```
 
 ## Related applications
-- [clockwall](https://github.com/ulricksennick/tgpl-exercises/ch8/clockwall): 
+- [clockwall](https://github.com/ulricksennick/tgpl-exercises/tree/master/ch8/clockwall): 
 Connect to multiple clock sources to display a wall of clocks, or world clock.
 

@@ -1,5 +1,5 @@
 # clockwall
-Connect to one or more [clock](https://github.com/ulricksennick/tgpl-exercises/ch8/clock)
+Connect to one or more [clock](https://github.com/ulricksennick/tgpl-exercises/tree/master/ch8/clock)
 instances and display a wall of clocks in the terminal.
 
 ![](img/clockwall.gif)
@@ -26,5 +26,5 @@ clock, named NewYork and connected to localhost:8010:
     ```
 
 ## Related applications
-- [clock](https://github.com/ulricksennick/tgpl-exercises/ch8/clock): spin up 
+- [clock](https://github.com/ulricksennick/tgpl-exercises/tree/master/ch8/clock): spin up 
 clocks over ports on your local machine for clockwall to connect to.
