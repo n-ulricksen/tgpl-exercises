@@ -22,10 +22,10 @@ TZ=<TIMEZONE> ./clock --port=<PORT>
 - To run multiple clocks, be sure to set a different port number for each 
 clock, and run each instance of the application in the background.
     ```
-    TZ=US/Eastern go run clock.go --port=8010 & \
-    TZ=Asia/Tokyo go run clock.go --port=8020 & \
-    TZ=Europe/London go run clock.go --port=8030 & \
-    TZ=US/Pacific go run clock.go --port=8040 &
+    TZ=US/Eastern ./clock --port=8010 & \
+    TZ=Asia/Tokyo ./clock --port=8020 & \
+    TZ=Europe/London ./clock --port=8030 & \
+    TZ=US/Pacific ./clock --port=8040 &
     ```
 
 ## Related applications
