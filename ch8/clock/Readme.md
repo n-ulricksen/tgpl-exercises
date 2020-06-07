@@ -1,5 +1,5 @@
 # clock
-Spin up a time-zone specific clock to report the current time over a specified
+Spin up a time zone specific clock to report the current time over a specified
 port on your local machine.
 
 **Note** you do not need to install Go to run this application!
