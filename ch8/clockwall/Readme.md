@@ -4,8 +4,6 @@ instances and display a wall of clocks in the terminal.
 
 ![](img/clockwall.gif)
 
-**Note** you do not need to install Go to run this application!
-
 Pass each clockname and host as arguments to the program.
 
 ## Usage
